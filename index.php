@@ -1,0 +1,3 @@
+<?php
+
+echo "DARAJA API BY ZANGTICS DIGITAL";
